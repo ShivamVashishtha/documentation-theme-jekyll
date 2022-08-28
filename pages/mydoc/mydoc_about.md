@@ -9,7 +9,7 @@ permalink: mydoc_about.html
 folder: mydoc
 ---
 
-My name is Tom Johnson, and I'm a technical writer, blogger, and podcaster based in San Jose, California. For more details, see my [technical writing blog](http://idratherbewriting.com) and my [course on API documentation](http://idratherbewriting.com/learnapidoc/).  See [my blog's about page](http://idratherbewriting.com/aboutme/) for more details about me.
+At Mathular, we aim to provide middle-school, high-school, and college students with a database of resources where they can find out specific topics relating to their respective courses/classes. We believe that both theoretical and visual content should be available for students, as per their needs. Hence, we've tried our best to incorporate these ideologies in our work & content. [View our code here](https://github.com/0shaurya/mathular).
 
 I have used this theme and variations of it for various documentation projects. This theme has undergone several major iterations, and now it's fairly stable and full of all the features that I need. You are welcome to use it for your documentation projects for free.
 
