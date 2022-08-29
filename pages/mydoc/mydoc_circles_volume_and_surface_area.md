@@ -21,7 +21,7 @@ We've covered the fundamentals of Congruency, Proofs, and Geometry. Finally, we'
 
 <h3><u>Circles</u></h3> <br>
 
-<p><li>
+<li>
 
 <b>Arc of a Circle:</b> It is basically any portion of the circumference of a circle. The circumference is the perimeter of a circle. Hence, the circumference is a full arc of the circle.
 
@@ -48,6 +48,7 @@ Finding the Length of an Arc:
 <br>
 
 <b>Answer:</b> $(2π7)$ $(40/360)$ = $4.884$ cm.
+  <br>
 
 </center>
 
