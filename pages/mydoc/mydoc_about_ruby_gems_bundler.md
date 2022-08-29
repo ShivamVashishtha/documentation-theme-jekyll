@@ -1,8 +1,7 @@
 ---
-title: About Ruby, Gems, Bundler, and other prerequisites
+title: Basics of Congruence
 tags: [getting_started, troubleshooting]
 keywords:
-summary: "Ruby is a programming language you must have on your computer in order to build Jekyll locally. Ruby has various gems (or plugins) that provide various functionality. Each Jekyll project usually requires certain gems."
 sidebar: mydoc_sidebar
 permalink: mydoc_about_ruby_gems_etc.html
 folder: mydoc
@@ -74,7 +73,7 @@ As we can see that even after these transformations, the shape still has the sam
 
 They are denoted by the symbol "≅", so if we want to represent ∠A is congruent to ∠B, we will write it as ∠A ≅ ∠B.
 
-<center><img src="https://www.math.net/img/a/geometry/angles/congruent-angles/congruent-angle-2.png" alt="W3Schools.com" style="float:middle;width:310px;height:140px;></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Angle-angle-side_triangle_congruence.svg" alt="Wikimedia" style="float:middle;width:310px;height:140px;></center>
 
 </p>
 
