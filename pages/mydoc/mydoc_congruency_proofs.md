@@ -24,7 +24,7 @@ In the last topic, we covered the fundamentals of congruence in both shapes and 
 
 </p>
 
-<center><p><b><u>Side-Side-Side (SSS)</u></b></center>
+<center><p><b><u>Side-Side-Side (SSS)</u></b>
 
 <center><img src="https://th.bing.com/th/id/R.230454237c29b8614b6cf826fa9f2450?rik=KSFVj0OkIhGyCQ&pid=ImgRaw&r=0" style="float:middle;width:350px;height:200px;"></center><br>
 
@@ -46,7 +46,7 @@ $\overline{\rm AC} \cong$ $\overline{\rm DF}$
 
 <hr>
 
-<center><p><b><u>Side-Angle-Side (SAS)</u></b></center>
+<center><p><b><u>Side-Angle-Side (SAS)</u></b>
 
 <center><img src="https://math.libretexts.org/@api/deki/files/51170/Screen_Shot_2020-10-30_at_4.17.29_PM.png?revision=1&size=bestfit&width=419&height=234" style="float:middle;width:430px;height:250px;"></center><br>
 
@@ -60,15 +60,15 @@ $\angle{B}$ $\cong$ $\angle{D}$ <br>
 
 $\overline{\rm BC}$ $\cong$ $\overline{\rm DF}$
 
-</center>
-
 </p>
+  
+</center>
 
 <br>
 
 <hr>
 
-<center><p><b><u>Angle-Side Angle (ASA)</u></b></center>
+<center><p><b><u>Angle-Side Angle (ASA)</u></b>
 
 <center><img src="https://cdn.kastatic.org/ka-perseus-graphie/531834dbe17d1fd1e9d341d30cf579e16c385f68.svg"></center><br>
 
@@ -82,15 +82,15 @@ $\angle{A}$ $\cong$ $\angle{D}$ <br>
 
 $\angle{B}$ $\cong$ $\angle{E}$
 
-</center>
-
 </p>
+  
+</center>
 
 <br>
 
 <hr>
 
-<center><p><b><u>Angle-Angle-Side (AAS)</u></b></center>
+<center><p><b><u>Angle-Angle-Side (AAS)</u></b>
 
 <center><img src="https://cdn.kastatic.org/ka-perseus-graphie/1ffd26013d34a0eeea132a00f7ff3aebcdf4eb33.svg"></center><br>
 
@@ -100,15 +100,15 @@ $\angle{B}$ $\cong$ $\angle{E}$
 
 When we know all of the angle measures, we can use the two that are adjacent to the known side, and then apply the ASA criteria.
 
-</center>
+</p>  
 
-</p>
+</center>
 
 <br>
 
 <hr>
 
-<center><p><b><u>Hypotenuse Leg (HL)</u></b></center>
+<center><p><b><u>Hypotenuse Leg (HL)</u></b>
 
 <center><img src="https://cdn.kastatic.org/ka-perseus-graphie/21f3bea44ef19777d964c34786742fd397df5686.svg"></center><br>
 
@@ -118,10 +118,8 @@ When we know all of the angle measures, we can use the two that are adjacent to 
 
 $(hypotenuse)^2$ = $(leg1)^2 + (leg 2)^2$
 
+</p>
+  
 </center>
 
-</p>
-
 <br>
-
-</p>
