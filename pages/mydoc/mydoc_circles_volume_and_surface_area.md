@@ -75,7 +75,7 @@ Area of sector of circle = $(\frac {1}{2})$ $(r^2 θ)$, where $θ$ is the sector
 
 <p>
 
-<h3><p><u>Volume Formulas:</u></p></h3>
+<h3><u>Volume Formulas:</u></h3>
 
 <p><li>
 
@@ -129,7 +129,7 @@ Formula = $V = l * w * (\frac{h}{3})$, where $w$ is the width of the pyramid, $h
 
 <p>
 
-<h3><p><u>Surface Area Formulas:</u></p></h3>
+<h3><u>Surface Area Formulas:</u></h3>
 
 <p><li>
 
