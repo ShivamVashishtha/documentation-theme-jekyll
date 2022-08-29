@@ -3,7 +3,7 @@ title: Basics of Congruence
 tags: [getting_started, troubleshooting]
 keywords:
 sidebar: mydoc_sidebar
-permalink: basicsofcongruence.html
+permalink: mydoc_basics_of_congruence.html
 folder: mydoc
 ---
 
