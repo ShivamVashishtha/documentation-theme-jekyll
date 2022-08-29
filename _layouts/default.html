@@ -145,15 +145,6 @@ MathJax.Hub.Config({
 <html>
 	{% include head.html %}
 	
-  	<body class="body-panel">
-  	
-	{%- if banner-position == 'top' or banner-position == 'top-fixed' -%}
-		{%- if site.data.setup.use-separate-banner-menubar-file %}
-  		<div id="navFrame"><script>$("#navFrame").load("/banner-area.html");</script></div>
-		{%- else -%}
-			{%- include banner-area.html -%}
-		{%- endif -%}
-	{%- endif %}
 
 		<div class="column-panel">
 
@@ -183,14 +174,7 @@ MathJax.Hub.Config({
 		{%- endif -%}			
 	{%- endif %}
 
-			<div class="primary-column">
-  	{%- if banner-position == 'main' -%}
-		{%- if site.data.setup.use-separate-banner-menubar-file %}
-  				<div id="navFrame"><script>$("#navFrame").load("/banner-area.html");</script></div>
-		{%- else -%}
-			{% include banner-area.html %}
-		{%- endif -%}
-	{%- endif %}
+			
 
 <body>
 {% include topnav.html %}
