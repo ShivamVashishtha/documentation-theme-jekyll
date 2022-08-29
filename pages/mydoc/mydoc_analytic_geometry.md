@@ -57,7 +57,7 @@ If we want to find the distance between two points, we can simply transform the 
 
 <center>Example: <img src="https://www.thoughtco.com/thmb/rnp3_3fW2swYcRakLWYf9zRkZpU=/1279x1024/filters:no_upscale():max_bytes(150000):strip_icc()/Distance_Formula-c9505b10ae88458f93c28324ad2f6a11.png" alt="Distance Example" style="width:75%;"></center></p>
 
-<br><p>
+<br>
 
 With this right triangle in place, we can use the Pythagorean Theorem: The expression for the base is $(x_2-x_1)$ and the expression for the length is $(y_2-y_1)$.
 
@@ -67,16 +67,13 @@ Now, we can use the formula: $unknown = (x_2-x_1)^2 + (y_2-y_1)^2$
 
 But, we can solve for it: $unknown = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$
 
-</p>
-
-</p>
 
 <p>
 
 <b>Midpoint:</b> The midpoint of the points $(x_1,y_1)$ and $(x_2,y_2)$ is given by the following formula: $midpoint = \frac {x_1+x_2}{2}, \frac{y_1+y_2}{2}$
 
 <center><img src="https://image01.ipracticemath.com/content/imageslm/algebra/midpoint-formula1.gif" alt="Midpoint Example" style="width:75%;"></center>
-
+<br>
 </p>
 
 <p>
