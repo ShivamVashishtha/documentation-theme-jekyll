@@ -29,11 +29,11 @@ We've covered the fundamentals of Congruency, Proofs, and Geometry. Finally, we'
 
 <li>
 
-Finding the Length of an Arc:
+  <b>Finding the Length of an Arc:</b>
 
 <ul><u>Arc Length:</u> The length of an arc is the distance between the start and end points of the arc. <br></ul>
 
-<ul><b>Formula for the arc length = </b> $(2πr)$ $(θ/360)$, where $r$ is the radius of the circle.</ul>
+<ul><u>Formula for the arc length = </u> $(2πr)$ $(θ/360)$, where $r$ is the radius of the circle.</ul>
 
 <center><img src="https://www.storyofmathematics.com/wp-content/uploads/2020/07/Arc-of-a-Circle.jpg" alt="Coordinate Plane" style="width:45%;">
 
@@ -56,15 +56,13 @@ Finding the Length of an Arc:
 
 </center>
 
-</ul>
+</p>
 
-</li></p>
-
-<p><li>
+<p>
   
   <br>
 
-<b>Area of Sector of a Circle:</b> Space enclosed by the sector of a circle.
+<li><b>Area of Sector of a Circle:</b> Space enclosed by the sector of a circle.
 
 <b>Formula = </b> Area of sector of circle = $(πr^2)$ $(θ/360)$, where $θ$ is the sector angle subtended by the arc at the center, <b>in degrees</b>. And, $r$ is the radius of the circle.
 
