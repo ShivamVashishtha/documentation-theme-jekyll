@@ -24,14 +24,16 @@ We've covered the fundamentals of Congruency, Proofs, and Geometry. Finally, we'
 <li>
 
 <b>Arc of a Circle:</b> It is basically any portion of the circumference of a circle. The circumference is the perimeter of a circle. Hence, the circumference is a full arc of the circle.
+  
+</li>
 
-<ul>
+<li>
 
 Finding the Length of an Arc:
 
-<u>Arc Length:</u> The length of an arc is the distance between the start and end points of the arc. <br>
+<ul><u>Arc Length:</u> The length of an arc is the distance between the start and end points of the arc. <br></ul>
 
-<b>Formula for the arc length = </b> $(2πr)$ $(θ/360)$, where $r$ is the radius of the circle.
+<ul><b>Formula for the arc length = </b> $(2πr)$ $(θ/360)$, where $r$ is the radius of the circle.</ul>
 
 <center><img src="https://www.storyofmathematics.com/wp-content/uploads/2020/07/Arc-of-a-Circle.jpg" alt="Coordinate Plane" style="width:45%;">
 
@@ -48,6 +50,8 @@ Finding the Length of an Arc:
 <br>
 
 <b>Answer:</b> $(2π7)$ $(40/360)$ = $4.884$ cm.
+  
+  </li>
   <br>
 
 </center>
@@ -57,6 +61,8 @@ Finding the Length of an Arc:
 </li></p>
 
 <p><li>
+  
+  <br>
 
 <b>Area of Sector of a Circle:</b> Space enclosed by the sector of a circle.
 
@@ -71,8 +77,6 @@ Area of sector of circle = $(\frac {1}{2})$ $(r^2 θ)$, where $θ$ is the sector
 </center>
 
 </li></p>
-
-</p>
 
 <p>
 
