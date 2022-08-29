@@ -65,7 +65,7 @@ entries:
       output: web, pdf
 
     - title: Basics of Congruence
-      url: /basicsofcongruence.html
+      url: /mydoc_basics_of_congruence.html
       output: web, pdf
 
     - title: Circles, Volume, and Surface Area
