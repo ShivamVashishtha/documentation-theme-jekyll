@@ -1,6 +1,6 @@
 ---
 title: Circles, Volume, and Surface Area
-permalink: mydoc_circles_volume_and_surface Area.html
+permalink: mydoc_circles_volume_and_surface_area.html
 keywords: jekyll on windows, pc, ruby, ruby dev kit
 sidebar: mydoc_sidebar
 folder: mydoc
