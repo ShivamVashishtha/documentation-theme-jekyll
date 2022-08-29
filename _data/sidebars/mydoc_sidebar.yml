@@ -73,7 +73,7 @@ entries:
       output: web, pdf
       
     - title: Congruency Proofs
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_congruency_proofs.html
       output: web, pdf
       
   - title: Precalculus
