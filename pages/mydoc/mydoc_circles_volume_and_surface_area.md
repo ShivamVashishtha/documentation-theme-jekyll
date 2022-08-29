@@ -33,7 +33,7 @@ We've covered the fundamentals of Congruency, Proofs, and Geometry. Finally, we'
 
 <ul><u>Arc Length:</u> The length of an arc is the distance between the start and end points of the arc. <br></ul>
 
-<ul><u>Formula for the arc length = </u> $(2πr)$ $(θ/360)$, where $r$ is the radius of the circle.</ul>
+<ul><u>Formula for the arc length</u>  = $(2πr)$ $(θ/360)$, where $r$ is the radius of the circle.</ul>
 
 <center><img src="https://www.storyofmathematics.com/wp-content/uploads/2020/07/Arc-of-a-Circle.jpg" alt="Coordinate Plane" style="width:45%;">
 
@@ -51,12 +51,10 @@ We've covered the fundamentals of Congruency, Proofs, and Geometry. Finally, we'
 
 <b>Answer:</b> $(2π7)$ $(40/360)$ = $4.884$ cm.
   
-  </li>
   <br>
 
 </center>
 
-</p>
 
 <p>
   
