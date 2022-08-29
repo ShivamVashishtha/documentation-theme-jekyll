@@ -73,8 +73,6 @@ As we can see that even after these transformations, the shape still has the sam
 
 They are denoted by the symbol "≅", so if we want to represent ∠A is congruent to ∠B, we will write it as ∠A ≅ ∠B.
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Angle-angle-side_triangle_congruence.svg" alt="Wikimedia" style="float:middle;width:310px;height:140px;></center>
-
 </p>
 
 </p>
