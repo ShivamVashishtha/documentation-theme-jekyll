@@ -3,7 +3,7 @@ title: Basics of Congruence
 tags: [getting_started, troubleshooting]
 keywords:
 sidebar: mydoc_sidebar
-permalink: mydoc_about_ruby_gems_etc.html
+permalink: basicsofcongruence.html
 folder: mydoc
 ---
 
